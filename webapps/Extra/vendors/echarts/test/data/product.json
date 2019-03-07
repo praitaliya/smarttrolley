@@ -1,0 +1,10 @@
+{
+	"nodes": {
+		"name": "Working hours"
+	}],
+	"links": {
+		"source": "Working hours",
+		"target": "Cane sugar (Organic)",
+		"value": 0.000957528158533333
+	}
+}

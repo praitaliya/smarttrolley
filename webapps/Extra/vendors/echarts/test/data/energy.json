@@ -1,0 +1,10 @@
+{
+	"nodes": {
+		"name": "Wind"
+	}],
+	"links": {
+		"source": "Wind",
+		"target": "Electricity grid",
+		"value": 289.366
+	}
+}
